@@ -1,1 +1,1 @@
-repository for AI-basis courses ofZJU,used to record my lab and report
+repository for AI-basis courses of ZJU,used to record my lab and report
